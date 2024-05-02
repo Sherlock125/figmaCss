@@ -1,0 +1,228 @@
+/* עמוד ראשי 2 */
+
+position: relative;
+width: 2016px;
+height: 1024px;
+
+background: #E9ECEF;
+
+
+/* עמוד הזמנה */
+
+position: relative;
+width: 2016px;
+height: 1024px;
+
+background: #E9ECEF;
+
+
+/* עמוד הזמנה */
+
+position: relative;
+width: 2016px;
+height: 1024px;
+
+background: #E9ECEF;
+
+
+/* עמוד הזמנה */
+
+position: relative;
+width: 2016px;
+height: 1024px;
+
+background: #E9ECEF;
+
+
+/* עמוד הזמנה */
+
+position: relative;
+width: 2016px;
+height: 1024px;
+
+background: #E9ECEF;
+
+
+/* הראל שלום */
+
+position: absolute;
+width: 63px;
+height: 9px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #43435C;
+
+
+
+/* אושר */
+
+position: absolute;
+width: 28px;
+height: 9px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #43435C;
+
+
+
+/* 11.05.2025 */
+
+position: absolute;
+width: 65px;
+height: 9px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #43435C;
+
+
+
+/* בדיקה */
+
+position: absolute;
+width: 35px;
+height: 9px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #43435C;
+
+
+
+/* סטטוס */
+
+position: absolute;
+width: 44px;
+height: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #43435C;
+
+
+
+/* תאריך */
+
+position: absolute;
+width: 40px;
+height: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #43435C;
+
+
+
+/* הערה */
+
+position: absolute;
+width: 36px;
+height: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #43435C;
+
+
+
+/* שם מאשר */
+
+position: absolute;
+width: 64px;
+height: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+
+color: #43435C;
+
+
+
+/* משטח עבודה */
+
+position: relative;
+width: 2464px;
+height: 1190px;
+
+background: #FFFFFF;
